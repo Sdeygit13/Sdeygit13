@@ -36,14 +36,6 @@ I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always pas
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sdeygit13&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdeygit13&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-</p>
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -67,9 +59,7 @@ I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always pas
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sdeygit13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
-
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Sdeygit13&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
 </p>
 
 ---
