@@ -32,7 +32,7 @@ I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always pas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,html,css,js,nodejs,react,git,github,vscode" />
 
 </p>
 
@@ -77,64 +77,6 @@ I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always pas
 <img src="https://github-profile-trophy.vercel.app/?username=Sdeygit13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
 
 </p>
-
----
-
-# 📂 Featured Projects
-
-## 🤖 Arduino Projects
-
-A collection of Arduino projects with:
-
-- Circuit Diagrams
-- Source Code
-- Components Required
-- Working Principle
-- Project Images
-- Documentation
-
----
-
-## 💻 C Programming
-
-Programs covering:
-
-- Basics
-- Functions
-- Arrays
-- Strings
-- Pointers
-- Structures
-- File Handling
-
----
-
-## 🐍 Python
-
-Practice programs covering:
-
-- Control Flow
-- Functions
-- Loops
-- Problem Solving
-
----
-
-# 📚 Currently Learning
-
-```text
-Arduino              █████████░░ 90%
-
-Embedded Systems     ███████░░░░ 70%
-
-C Programming        ██████████░ 95%
-
-Python               ████████░░░ 80%
-
-Git & GitHub         ████████░░░ 80%
-
-Web Development      ██░░░░░░░░░ 20%
-```
 
 ---
 
