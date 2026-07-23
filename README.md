@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suvam Dey</h1>
+<h1 align="center">Hi 👋, I'm Suvam</h1>
 
 <h3 align="center">
 Welcome to my Coding Journey :)
@@ -22,10 +22,13 @@ Welcome to my Coding Journey :)
 
 # 👨‍💻 About Me
 
-Hi, I'm **Suvam** 👋
+Hello Visitors, myself **Suvam Dey**
 
-I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always passionate about coding, web development, AI toosls, enthusiast in building practical projects and exploring new technologies.
+I'm currently pursuing a **B.Tech in Computer Science & Engineering**.
 
+I'm passionate about coding and enjoy building practical projects that combine hardware and software. Currently, I'm exploring **Arduino, Embedded Systems, C/C++, Python**, and I'm already engaged in the journey of **Full Stack Web Development**.
+
+I believe in learning by building real-world projects and sharing my progress on GitHub.
 ---
 
 # 🚀 Tech Stack
