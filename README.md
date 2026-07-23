@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suvam Dey</h1>
 
 <h3 align="center">
-Computer Science & Engineering Student • Embedded Systems Enthusiast
+Welcome to my Coding Journey :)
 </h3>
 
 <p align="center">
@@ -24,14 +24,7 @@ Computer Science & Engineering Student • Embedded Systems Enthusiast
 
 Hi, I'm **Suvam** 👋
 
-I'm a **Computer Science & Engineering** student passionate about building practical projects and exploring new technologies.
-
-- 🎓 B.Tech CSE Student
-- 🤖 Building Arduino & Embedded Systems Projects
-- 💻 Learning C/C++, Python & Git
-- 🌐 Full Stack Web Development
-- 🚀 Learning by building real-world projects
-- 📚 Sharing my journey through GitHub
+I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always passionate about coding, web development, AI toosls, enthusiast in building practical projects and exploring new technologies.
 
 ---
 
