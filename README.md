@@ -7,44 +7,22 @@
 # 👋 Hello, I'm Suvam Dey
 
 ### 💻 Computer Science & Engineering Student
-### ⚡ Embedded Systems • Arduino • C/C++ • Python • IoT • Web Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Learning+by+Building+Projects.;Arduino+%7C+C%2B%2B+%7C+Python;Embedded+Systems+Enthusiast;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Learning+by+Building+Real+Projects.;Arduino+%7C+Embedded+Systems+%7C+IoT;C%2FC%2B%2B+%7C+Python;Web+Development+%28Coming+Soon%29+🌐;Always+Learning+🚀" alt="Typing SVG" />
 </p>
-
-</div>
 
 ---
 
 # 🚀 About Me
-
-```cpp
-class Suvam {
-
-public:
-
-    string education = "B.Tech CSE";
-
-    vector<string> interests = {
-        "Arduino",
-        "Embedded Systems",
-        "IoT",
-        "C/C++",
-        "Python"
-    };
-
-    string motto = "Learn → Build → Share → Repeat";
-
-};
 ```
-
 - 🎓 B.Tech Computer Science & Engineering Student
 - 🔭 Currently building **Arduino Projects**
 - 🌱 Learning **Embedded Systems & IoT**
 - 💡 Passionate about practical hardware-software solutions
 - 📖 Learning something new every day
 - 🚀 Sharing my journey through GitHub
+- 🌐 Web Development *(Coming Soon)*
 
 ---
 
