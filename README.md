@@ -32,7 +32,7 @@ I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always pas
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,html,css,js,nodejs,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,html,css,tailwindcs,js,nodejs,react,ts,docker,sql,nosql,git,github,lmstudio" />
 
 </p>
 
