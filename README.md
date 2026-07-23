@@ -56,14 +56,6 @@ I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always pas
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Sdeygit13&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
-</p>
-
----
-
 # 🎯 2026 Goals
 
 - 🚀 Build 100+ Arduino Projects
