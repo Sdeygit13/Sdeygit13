@@ -24,11 +24,11 @@ Welcome to my Coding Journey :)
 
 Hello Visitors, myself **Suvam Dey**
 
-🟡 I'm currently pursuing **B.Tech in Computer Science & Engineering** 🎓 
+🟡 I'm currently pursuing **B.Tech in Computer Science & Engineering** 
 
-🔵 I'm passionate about transforming ideas into practical projects through code and electronics. Currently, I'm exploring **Arduino, Embedded Systems, C/C++, Python**, and building a strong foundation in **Full Stack Web Development** 🌟
+🔵 I'm passionate about transforming ideas into practical projects through code and electronics. Currently, I'm exploring **Arduino, Embedded Systems, C/C++, Python**, and building a strong foundation in **Full Stack Web Development**
 
-I believe in learning by building real-world projects and sharing my progress on GitHub 😎
+I believe in learning by building real-world projects and sharing my progress on GitHub
 ---
 
 # 🚀 Tech Stack
