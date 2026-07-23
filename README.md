@@ -7,9 +7,11 @@
 # 👋 Hello, I'm Suvam Dey
 
 ### 💻 Computer Science & Engineering Student
-### ⚡ Embedded Systems • Arduino • C/C++ • Python • IoT
+### ⚡ Embedded Systems • Arduino • C/C++ • Python • IoT • Web Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;Learning+by+Building+Real+Projects.;Arduino+%7C+Embedded+Systems+%7C+IoT.;Every+Commit+Tells+a+Story.;Always+Learning+🚀" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Learning+by+Building+Projects.;Arduino+%7C+C%2B%2B+%7C+Python;Embedded+Systems+Enthusiast;Always+Learning+🚀" alt="Typing SVG" />
+</p>
 
 </div>
 
