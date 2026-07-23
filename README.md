@@ -5,7 +5,7 @@ Welcome to my Coding Journey :)
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub Page!;Learning+by+Building+Real+Projects.;Arduino+%7C+Embedded+Systems+%7C+IoT;C%2FC%2B%2B+%7C+Python;Full+Stack+Web+Development+🌐;Always+Learning+The+New+Things+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=👋+Welcome+to+My+GitHub+Profile!;💻+Computer+Science+%26+Engineering+Student;🤖+Arduino+%7C+Embedded+Systems+%7C+IoT;⚡+C%2FC%2B%2B+%7C+Python;🌐+Full+Stack+Web+Development+%28Learning%29;🚀+Learning+by+Building+Real+Projects;✨+Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,9 +31,7 @@ I'm currently doing **B.Tech in Computer Science & Engineering**, I'm always pas
 # 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,html,css,tailwindcs,js,nodejs,react,ts,docker,sql,nosql,git,github,lmstudio" />
-
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,github,vscode,html,css,js,nodejs,react,tailwind,mysql,docker&perline=8" />
 </p>
 
 ---
