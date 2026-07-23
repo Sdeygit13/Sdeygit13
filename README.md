@@ -5,7 +5,7 @@ Computer Science & Engineering Student • Embedded Systems Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Learning+by+Building+Real+Projects.;Arduino+%7C+Embedded+Systems+%7C+IoT;C%2FC%2B%2B+%7C+Python;Web+Development+%28Coming+Soon%29+🌐;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub Page!;Learning+by+Building+Real+Projects.;Arduino+%7C+Embedded+Systems+%7C+IoT;C%2FC%2B%2B+%7C+Python;Full+Stack+Web+Development+🌐;Always+Learning+The+New+Things+🚀"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ I'm a **Computer Science & Engineering** student passionate about building pract
 - 🎓 B.Tech CSE Student
 - 🤖 Building Arduino & Embedded Systems Projects
 - 💻 Learning C/C++, Python & Git
-- 🌐 Web Development *(Coming Soon)*
+- 🌐 Full Stack Web Development
 - 🚀 Learning by building real-world projects
 - 📚 Sharing my journey through GitHub
 
