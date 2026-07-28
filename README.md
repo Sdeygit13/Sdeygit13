@@ -4,9 +4,6 @@
 Welcome to my Coding Journey :)
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&lines=👋+Welcome+to+My+GitHub+Profile!;💻+Computer+Science+%26+Engineering+Student;🤖+Arduino+%7C+Embedded+Systems+%7C+IoT;⚡+C%2FC%2B%2B+%7C+Python;🌐+Full+Stack+Web+Development+%28Learning%29;🚀+Learning+by+Building+Real+Projects;✨+Always+Learning+Something+New!" alt="Typing SVG" />
-</p>
 
 <p align="center">
 
@@ -26,7 +23,7 @@ Hello Visitors, myself **Suvam Dey**
 
 🟡 I'm currently pursuing **B.Tech in Computer Science & Engineering** 
 
-🔵 I'm passionate about transforming ideas into practical projects through code and electronics. Currently, I'm exploring **Arduino, Embedded Systems, C/C++, Python**, and focusing to build a strong foundation in **Full Stack Web Development & Cyber Security**
+🔵 I'm passionate about transforming ideas into practical projects through code and electronics. Currently, I'm exploring **Arduino & IOT Systems** and focusing to build a strong foundation in **Full Stack Web Development & Cyber Security**
 
 I believe in learning by building real-world projects and sharing my progress on GitHub
 ---
@@ -61,8 +58,9 @@ I believe in learning by building real-world projects and sharing my progress on
 
 # 🎯 2026 Goals
 
-- 🚀 Build 100+ Arduino Projects
+- 🚀 Build 50+ Arduino Projects
 - 🌐 Learn Full Stack Web Development
+- 🔐 Mastering Cyber Security & Data Privacy
 - ⚡ Master Embedded Systems
 - 📡 Learn ESP32 & IoT
 - 🤝 Contribute to Open Source
