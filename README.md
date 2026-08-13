@@ -26,7 +26,7 @@ Hello Visitors, myself **Suvam Dey**
 🔵 I'm passionate about transforming ideas into practical projects through code and electronics. Currently, I'm exploring **Arduino & IOT Systems** and focusing to build a strong foundation in **Full Stack Web Development & Cyber Security**
 
 I believe in learning by building real-world projects and sharing my progress on GitHub
----
+
 ```
 # 🚀 Tech Stack
 
@@ -36,6 +36,7 @@ I believe in learning by building real-world projects and sharing my progress on
 
 ---
 ```
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -44,7 +45,6 @@ I believe in learning by building real-world projects and sharing my progress on
 
 </p>
 
----
 
 # 📈 Contribution Graph
 
@@ -54,7 +54,7 @@ I believe in learning by building real-world projects and sharing my progress on
 
 </p>
 
----
+
 ```
 # 🎯 2026 Goals
 
