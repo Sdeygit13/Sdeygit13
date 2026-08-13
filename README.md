@@ -28,17 +28,6 @@ Hello Visitors, myself **Suvam Dey**
 I believe in learning by building real-world projects and sharing my progress on GitHub
 
 
-
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sdeygit13&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-
 # 📈 Contribution Graph
 
 <p align="center">
