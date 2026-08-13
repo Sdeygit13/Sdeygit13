@@ -48,7 +48,7 @@ I believe in learning by building real-world projects and sharing my progress on
 
 <p align="center">
 
-<a href="www.linkedin.com/in/suvamdey13/">
+<a href="https://www.linkedin.com/in/suvamdey13/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
