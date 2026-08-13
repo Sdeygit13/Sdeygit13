@@ -27,7 +27,7 @@ Hello Visitors, myself **Suvam Dey**
 
 I believe in learning by building real-world projects and sharing my progress on GitHub
 ---
-
+```
 # 🚀 Tech Stack
 
 <p align="center">
@@ -35,7 +35,7 @@ I believe in learning by building real-world projects and sharing my progress on
 </p>
 
 ---
-
+```
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -55,7 +55,7 @@ I believe in learning by building real-world projects and sharing my progress on
 </p>
 
 ---
-
+```
 # 🎯 2026 Goals
 
 - 🚀 Build 50+ Arduino Projects
@@ -67,7 +67,7 @@ I believe in learning by building real-world projects and sharing my progress on
 - 🧩 Improve Data Structures & Algorithms
 
 ---
-
+```
 # 💭 Quote
 
 > **"Learning never stops. Every project is another step toward becoming a better engineer."**
@@ -84,6 +84,13 @@ I believe in learning by building real-world projects and sharing my progress on
 
 </p>
 
+<p align="center">
+
+<a href="www.linkedin.com/in/suvamdey13">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
 ---
 
 <div align="center">
