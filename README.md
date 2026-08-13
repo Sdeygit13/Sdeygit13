@@ -23,9 +23,10 @@ Hello Visitors, myself **Suvam Dey**
 
 🟡 I'm currently pursuing **B.Tech in Computer Science & Engineering** 
 
-🔵 I'm passionate about transforming ideas into practical projects through code and electronics. Currently, I'm exploring **Arduino & IOT Systems** and focusing to build a strong foundation in **Full Stack Web Development & Cyber Security**
+🔵 I'm passionate about transforming ideas into practical projects. Currently, I'm focusing to build a strong foundation in **Full Stack Web Development**
 
 I believe in learning by building real-world projects and sharing my progress on GitHub
+
 
 ```
 # 🚀 Tech Stack
@@ -34,7 +35,7 @@ I believe in learning by building real-world projects and sharing my progress on
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,git,github,vscode,html,css,js,nodejs,react,tailwind,mysql,docker&perline=8" />
 </p>
 
----
+
 ```
 
 # 🔥 GitHub Streak
@@ -66,7 +67,7 @@ I believe in learning by building real-world projects and sharing my progress on
 - 🤝 Contribute to Open Source
 - 🧩 Improve Data Structures & Algorithms
 
----
+
 ```
 # 💭 Quote
 
