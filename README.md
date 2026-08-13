@@ -48,7 +48,7 @@ I believe in learning by building real-world projects and sharing my progress on
 
 <p align="center">
 
-<a href="https://github.com/Sdeygit13">
+<a href="https://github.com/Sdeygit13/">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
